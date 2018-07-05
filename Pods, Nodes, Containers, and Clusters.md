@@ -6,7 +6,7 @@ Kubernetes正在迅速成为在云中部署和管理软件的新标准。然而�
 首先，让我们看看硬件是如何表示的
 ## Hardware
 ### Nodes（节点）
-![https://github.com/rushoo/kubernetes-/blob/master/Nodes.png]
+![/Nodes.png]
 
 在Kubernetes，一个节点是计算硬件的最小单元。它是集群中单个机器的表示。
 在大多数生产系统中，节点很可能是数据中心中的物理机器，或者是托管在云提供商上的虚拟机，
