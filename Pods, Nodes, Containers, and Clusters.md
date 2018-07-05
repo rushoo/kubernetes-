@@ -2,6 +2,7 @@ Kubernetes正在迅速成为在云中部署和管理软件的新标准。然而�
 供的所有力量，都带来了一个陡峭的学习曲线。作为一个新来者，试图解析官方文档可能太过困难。有许多不同的组成部分组成了官方文档系统，
 并且很难判断哪些会与你的使用相关。这篇博客文章将提供Kubernetes的简化视图，
 但它将尝试对最重要的组件以及它们如何组合在一起进行高层次的概述。
+原文链接：https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
 
 首先，让我们看看硬件是如何表示的
 ## Hardware
